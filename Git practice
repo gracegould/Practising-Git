@@ -7,3 +7,10 @@
 
 <h1> Still practising for git </h1>
 <p1> really hope this works! </p1>
+<h2></h2>
+<p2> list of colors </p2>
+<ul>
+		<li> blue
+		<li> red
+		<li> green
+</ul>
